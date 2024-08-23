@@ -1,0 +1,5 @@
+Pour lancer le projet avec Qt creator, 
+il faut dans un premier temps modifier la configuration d'OpenCV (include path et lib)
+Puis placer le dossier assets trouvable dans le dossier Éxecutable dans le dossier de build
+
+Finalement de pas inclure opengl ou glu (c'est normale, le projet risque de ne pas se lancer avec)
