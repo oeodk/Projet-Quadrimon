@@ -6,5 +6,5 @@ L'aplication à été réalise en C++, avec OpenGl, Qt et OpenCV
 ![quadrimon_screenshot](https://github.com/user-attachments/assets/bcc29df3-d211-484b-8a8a-3144ffc01b0d)
 
 # Règles du jeu
-Ce jeu permet de jouer à une partie de Quadrimon
-Au début de la partie les joueurs doivent présenter une carte quadrimon devant la caméra pour l'invoquer en jeu, puis au cour de la partie les joueurs on la possibilité de scanner des cartes terrains pour activer different effects pouvant leur donner divers bonnus et malus, finalement chaque joueur peut lorsque c'est son tour changer son Quadrimon actif en en scannant un nouveau.
+Ce jeu permet de jouer à une partie de Quadrimon <br>
+Au début de la partie les joueurs doivent présenter une carte Quadrimon devant la caméra pour l'invoquer en jeu, puis au cour de la partie les joueurs on la possibilité de scanner des cartes terrains pour activer differents effects pouvant leur donner divers bonnus et malus, finalement chaque joueur peut lorsque c'est son tour changer son Quadrimon actif en en scannant un nouveau.
