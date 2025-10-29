@@ -22,7 +22,7 @@ Au début de la partie les joueurs doivent présenter une carte Quadrimon devant
 
 # Fonctionnalitées notables
 
-•	Chaque joueur peut scanner des cartes dans une zone de l'écran pour faire apparaitre ces créatures
-•	9 Quadrimons modélisé, chacun avec leurs propres animations de mort et d'attaque
-•	Effet visuel bloom et couleurs HDR
+- Chaque joueur peut scanner des cartes dans une zone de l'écran pour faire apparaitre ces créatures
+-	9 Quadrimons modélisé, chacun avec leurs propres animations de mort et d'attaque
+-	Effet visuel bloom et couleurs HDR
 
